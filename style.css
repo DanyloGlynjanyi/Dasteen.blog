@@ -6,7 +6,7 @@ header {
     background: #EFF0F3;
     box-shadow: 4px 6px 13px 0px rgba(215, 215, 215, 0.25);
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
     position: fixed;
     top: 0;
@@ -72,7 +72,7 @@ main {
     background: #EFF0F3;
     height: 900px;
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
 }
 
 .first_step img {
